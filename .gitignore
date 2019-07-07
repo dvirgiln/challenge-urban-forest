@@ -1,2 +1,6 @@
 jar
 .ipynb_*
+target/*
+.idea
+project/target
+project/project/target
